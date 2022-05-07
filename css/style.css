@@ -9592,3 +9592,15 @@ h6,
   width: 50%;
   align-self: center;
 }
+
+.video{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.vitrin{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
